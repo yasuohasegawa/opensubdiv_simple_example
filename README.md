@@ -4,10 +4,10 @@ But I wanted to know how it looks, so I added GLFW code to draw results and visu
 
 This code only works on xcode. You have to install opensubdiv, GLFW and glm with cmake.
 
-Requierements:
+## Requirement
 ・opensubdiv
 ・GLFW
 ・glm
 
-TODO:
+## Todo
 Load modeling things with assimp or own loader.
